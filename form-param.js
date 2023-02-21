@@ -13,7 +13,8 @@ function changeDefaultValueManually(){
   function MTNetForm(){MTNetFormDataLayer.push(arguments)};
 
   MTNetForm("updateValues", {
-    'eb4108cc-be49-40e6-80f3-5e9bd00da0d1':'オペレーター職'
+    //First parameter is the ID of the input tag and the second parameter is the value of
+    'eb4108cc-be49-40e6-80f3-5e9bd00da0d1':'Front-End'
   });
 
 }
